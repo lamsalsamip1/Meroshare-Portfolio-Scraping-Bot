@@ -8,4 +8,4 @@ A step by step description of it's main operation is as follows:
 3) Click on My Portfolio Tab
 4) Calculate number of rows and columns of portfolio table
 5) Loop through the table with a nested loop
-6) Format those values(removing commas), and write it to required location of excel file by indexing the sheet through loop variables.
+6) Format those values(removing commas), and write it to required location of excel file by indexing the sheet through loop variables (row and column values).
